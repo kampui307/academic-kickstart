@@ -3,11 +3,11 @@
 title: Kampui Tsang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kampui Tsang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kampui
+last_name: Tsang
 
 # Status emoji
 status:
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Political Economy
+  - Development Economics
+  - Chinese Economy
 
 education:
   - area: PhD Artificial Intelligence
